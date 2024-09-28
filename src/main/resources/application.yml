@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Mongo-Auditing
+  main:
+    web-application-type: reactive
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/audit-database
