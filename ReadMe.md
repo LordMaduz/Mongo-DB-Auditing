@@ -166,3 +166,9 @@ ChangeStreamOptions.builder()
     .fullDocumentLookup(FullDocument.UPDATE_LOOKUP)
     .fullDocumentBeforeChangeLookup(FullDocumentBeforeChange.REQUIRED)
 ```
+
+## Related Articles
+[Simplify Audit Trails with Change Data Capture: MongoDB Change Streams in Spring Boot](https://levelup.gitconnected.com/simplify-audit-trails-with-change-data-capture-mongodb-change-streams-in-spring-boot-b16ee0146382)
+
+**More Articles**: 
+Visit my [Medium Profile](https://medium.com/@maduz.ruchira) for more solution architecture tutorials.
