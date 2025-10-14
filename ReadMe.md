@@ -21,6 +21,16 @@ A Spring Boot application that automatically captures and audits all MongoDB doc
 ## Architecture
 <img width="1199" height="1895" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-10-14-064116" src="https://github.com/user-attachments/assets/e7bbea6d-c208-42d6-ab0d-6e6c7ad33466" />
 
+## Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Core** | Java 21, Spring Boot 3.3.2 |
+| **Data** | Spring Data MongoDB, Spring Data MongoDB Reactive |
+| **Web** | Spring WebFlux (Reactive), Spring MVC (Non-Reactive) |
+| **Database** | MongoDB 4.0+ (Replica Set required) |
+| **API Docs** | SpringDoc OpenAPI 3 |
+
 ## Getting Started
 #### Prerequisites
 
